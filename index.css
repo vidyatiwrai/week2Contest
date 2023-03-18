@@ -1,0 +1,246 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#main_container{
+    background-color: #262626;
+    padding: 20px;
+
+}
+
+#Forent1{
+    width: 159px;
+    height: 40px;
+    top: 27px;
+    left: 59px;
+}
+
+#header{
+    display: flex;
+    justify-content: space-between;
+}
+
+#aboutUs{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    border-radius: 20px;
+}
+
+#searchBar{
+    width: 597px;
+    height: 40px;
+    top: 33px;
+    left: 319px;
+    border-radius: 15px;
+    border-style: none;
+    background-color: #262626;
+       box-shadow: rgba(0, 0, 0, 0.24) 0px 3px;
+       margin-left: 20px;
+       margin-right: 20px;
+       
+    
+    
+}
+button{
+    height: 40px;
+    width: 134px;
+    border-radius: 15px;
+    cursor: pointer;
+    border-style: none;
+}
+#login{
+    background-color: #262626;
+    color: 
+    #C4C4C4;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+#holeAbout{
+    display: flex;
+    justify-content: space-between;
+}
+#electronics{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+h2{
+    color: 
+    #C4C4C4;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+.rent{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+    
+}
+
+#carryimage{
+    background-color: yellow;
+    border-radius: 100px;
+}
+#REntw{
+    height: 30px;
+    width: 30px;
+    padding: 9px;
+}
+
+#broucher{
+    background-color: yellow;
+    border-radius: 100px;
+}
+#brouw{
+    height: 30px;
+    width: 30px;
+    padding: 9px;
+}
+
+#broucher{
+    background-color: yellow;
+    border-radius: 100px;
+}
+#brouw{
+    height: 30px;
+    width: 30px;
+    padding: 9px;
+}
+
+#online{
+    background-color: yellow;
+    border-radius: 100px;
+}
+#onlinepay{
+    height: 30px;
+    width: 30px;
+    padding: 9px;
+}
+p{
+    color:#C4C4C4;
+    
+}
+#electronics>p{
+    padding: 10px;
+}
+
+
+
+
+#clock{
+    margin-right: 90px;
+    background-color: yellow;
+    border-radius: 200px;
+}
+#clockwise{
+    height: 160px;
+    width: 160px;
+   
+}
+#knowbtn{
+   margin-top: 25px;
+   margin-left: 30px;
+   background-color: yellow;
+   font-size: large;
+   border-radius: 30px;
+}
+#knowbtn2{
+    margin-top: 25px;
+    margin-left: 30px;
+    background-color: yellow;
+    font-size: large;
+    border-radius: 30px;
+    margin-left: 170px;
+}
+h3{
+    text-align: left;
+    padding-left: 20px;
+    color: 
+    #C4C4C4;
+}
+
+
+#upperCate{
+    display: flex;
+    height: 300px;
+  
+    text-align: center;
+    padding-left: 30px;
+    margin-bottom: 10px;
+
+}
+#upperCate>#electronics{
+
+ 
+    width: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 20px;
+
+}
+#upperCate>#electronics>#knowbtn{
+    background-color: yellow;
+  
+}
+
+#lowerCate{
+    display: flex;
+    height: 300px;
+
+    text-align: center;
+    padding-left: 30px;
+
+}
+#lowerCate>#electronics{
+
+   
+    width: 400px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border-radius: 20px;
+
+}
+#lowerCate>#electronics>#knowbtn{
+    background-color: yellow;
+  
+}
+
+#footer{
+
+    display: flex;
+ 
+   height: 250px;
+   color: 
+   #C4C4C4;
+   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+   border-radius: 30px;
+
+}
+#foterforent{
+     padding: 20px;
+     margin-right: 1px;
+}
+#foterforent>p{
+    width: 340px;
+}
+#whole{
+    display: flex;
+    margin-right: 400px;
+    gap: 60px;
+}
+a{
+    text-decoration: none;
+    color: 
+    #C4C4C4;
+    padding-left: 10px;
+   
+}
+#site{
+    margin-left: 300px;
+    font-size: larger;
+}
+#social{
+    margin-left: 300px;
+    font-size: larger;
+}
+
+
